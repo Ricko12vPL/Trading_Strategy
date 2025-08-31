@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (31/62)
+====================================================================================================
+Symbol: SPY (Major Market ETF)
+Generated: 2025-08-22 23:04:29
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 3.58%
+Annualized Return (CAGR): 3.91%
+Volatility: 17.43%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 0.109
+Sortino Ratio: 0.087
+Calmar Ratio: 0.268
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 14.59%
+Recovery Factor: 0.25
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 54.0%
+Average Win: 0.99%
+Average Loss: -1.04%
+Profit Factor: 1.12
+Expectancy: 0.0006
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -1.14%
+Conditional VaR (95%): -2.68%
+Skewness: 2.524
+Kurtosis: 41.876
+
+============================================================
+🧪 MONTE CARLO VALIDATION (10,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 3.58%
+Permutation Mean: 3.29%
+Permutation Std: 10.12%
+P-Value: 0.4675
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: 3.9% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 54.0% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: 0.11 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.4675
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: Major Market ETF
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

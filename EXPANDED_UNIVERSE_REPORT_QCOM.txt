@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (19/62)
+====================================================================================================
+Symbol: QCOM (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:58:10
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -5.20%
+Annualized Return (CAGR): -5.65%
+Volatility: 23.65%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -0.324
+Sortino Ratio: -0.332
+Calmar Ratio: -0.366
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 15.44%
+Recovery Factor: -0.34
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 47.5%
+Average Win: 1.29%
+Average Loss: -1.20%
+Profit Factor: 0.97
+Expectancy: -0.0002
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -2.03%
+Conditional VaR (95%): -3.81%
+Skewness: 0.566
+Kurtosis: 15.147
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -5.20%
+Permutation Mean: -9.39%
+Permutation Std: 16.63%
+P-Value: 0.3536
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -5.7% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 47.5% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -0.32 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.3536
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

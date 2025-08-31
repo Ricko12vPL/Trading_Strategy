@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (45/62)
+====================================================================================================
+Symbol: XLK (Sector ETF)
+Generated: 2025-08-22 23:11:37
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 5.94%
+Annualized Return (CAGR): 6.49%
+Volatility: 25.95%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 0.173
+Sortino Ratio: 0.201
+Calmar Ratio: 0.288
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 22.51%
+Recovery Factor: 0.26
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 54.2%
+Average Win: 1.09%
+Average Loss: -1.19%
+Profit Factor: 1.09
+Expectancy: 0.0005
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -2.45%
+Conditional VaR (95%): -3.98%
+Skewness: 1.552
+Kurtosis: 21.685
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 5.94%
+Permutation Mean: 5.27%
+Permutation Std: 14.04%
+P-Value: 0.4515
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: 6.5% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 54.2% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: 0.17 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.4515
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: Sector ETF
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

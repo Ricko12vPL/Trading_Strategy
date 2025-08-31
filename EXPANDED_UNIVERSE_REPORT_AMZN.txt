@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (4/62)
+====================================================================================================
+Symbol: AMZN (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:41:21
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 1.87%
+Annualized Return (CAGR): 2.04%
+Volatility: 31.48%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 0.001
+Sortino Ratio: 0.002
+Calmar Ratio: 0.077
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 26.54%
+Recovery Factor: 0.07
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 47.8%
+Average Win: 1.67%
+Average Loss: -1.46%
+Profit Factor: 1.05
+Expectancy: 0.0003
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -2.78%
+Conditional VaR (95%): -4.73%
+Skewness: 0.409
+Kurtosis: 8.912
+
+============================================================
+🧪 MONTE CARLO VALIDATION (10,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 1.87%
+Permutation Mean: 4.01%
+Permutation Std: 17.02%
+P-Value: 0.5218
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: 2.0% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 47.8% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: 0.00 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.5218
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

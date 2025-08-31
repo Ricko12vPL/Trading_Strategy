@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (21/62)
+====================================================================================================
+Symbol: AMGN (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:58:45
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -6.24%
+Annualized Return (CAGR): -6.78%
+Volatility: 24.74%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -0.355
+Sortino Ratio: -0.387
+Calmar Ratio: -0.292
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 23.25%
+Recovery Factor: -0.27
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 52.6%
+Average Win: 1.20%
+Average Loss: -1.38%
+Profit Factor: 0.97
+Expectancy: -0.0002
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -2.81%
+Conditional VaR (95%): -4.24%
+Skewness: -0.685
+Kurtosis: 4.311
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -6.24%
+Permutation Mean: -9.90%
+Permutation Std: 12.55%
+P-Value: 0.3646
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -6.8% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 52.6% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -0.36 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.3646
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

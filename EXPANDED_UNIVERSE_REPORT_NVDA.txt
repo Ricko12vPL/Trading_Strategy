@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (5/62)
+====================================================================================================
+Symbol: NVDA (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:43:37
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 63.61%
+Annualized Return (CAGR): 71.10%
+Volatility: 40.75%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 1.696
+Sortino Ratio: 2.170
+Calmar Ratio: 3.750
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 18.96%
+Recovery Factor: 3.35
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 53.8%
+Average Win: 2.35%
+Average Loss: -1.95%
+Profit Factor: 1.40
+Expectancy: 0.0036
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -3.67%
+Conditional VaR (95%): -5.57%
+Skewness: 1.375
+Kurtosis: 12.475
+
+============================================================
+🧪 MONTE CARLO VALIDATION (10,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 63.61%
+Permutation Mean: 18.07%
+Permutation Std: 29.26%
+P-Value: 0.0722
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ✅ ACHIEVED
+  → Actual: 71.1% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 53.8% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ✅ ACHIEVED
+  → Actual: 1.70 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.0722
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 2/4 targets achieved
+Assessment: 🟡 GOOD - Strategy shows promise with optimization potential
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

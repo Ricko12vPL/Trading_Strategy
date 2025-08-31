@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (37/62)
+====================================================================================================
+Symbol: VWO (Options Trading Instrument)
+Generated: 2025-08-22 23:08:54
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 7.68%
+Annualized Return (CAGR): 8.41%
+Volatility: 13.26%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 0.483
+Sortino Ratio: 0.500
+Calmar Ratio: 0.599
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 14.03%
+Recovery Factor: 0.55
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 42.2%
+Average Win: 1.20%
+Average Loss: -0.70%
+Profit Factor: 1.24
+Expectancy: 0.0010
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -0.92%
+Conditional VaR (95%): -1.84%
+Skewness: 2.106
+Kurtosis: 20.804
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 7.68%
+Permutation Mean: 4.22%
+Permutation Std: 8.59%
+P-Value: 0.3477
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: 8.4% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 42.2% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: 0.48 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.3477
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: Options Trading Instrument
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

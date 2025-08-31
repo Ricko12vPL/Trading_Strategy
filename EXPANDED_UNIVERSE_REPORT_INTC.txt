@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (12/62)
+====================================================================================================
+Symbol: INTC (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:55:58
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 3.85%
+Annualized Return (CAGR): 4.21%
+Volatility: 11.92%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 0.185
+Sortino Ratio: 0.291
+Calmar Ratio: 0.489
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 8.60%
+Recovery Factor: 0.45
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 43.3%
+Average Win: 0.69%
+Average Loss: -0.49%
+Profit Factor: 1.08
+Expectancy: 0.0002
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -1.15%
+Conditional VaR (95%): -1.54%
+Skewness: 0.995
+Kurtosis: 4.988
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 3.85%
+Permutation Mean: -1.68%
+Permutation Std: 13.91%
+P-Value: 0.3616
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: 4.2% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 43.3% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: 0.19 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.3616
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

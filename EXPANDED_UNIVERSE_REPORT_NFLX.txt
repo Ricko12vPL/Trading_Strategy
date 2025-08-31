@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (8/62)
+====================================================================================================
+Symbol: NFLX (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:50:22
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 100.99%
+Annualized Return (CAGR): 114.15%
+Volatility: 28.19%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 3.979
+Sortino Ratio: 5.475
+Calmar Ratio: 8.050
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 14.18%
+Recovery Factor: 7.12
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 58.9%
+Average Win: 1.78%
+Average Loss: -1.28%
+Profit Factor: 1.99
+Expectancy: 0.0052
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -2.10%
+Conditional VaR (95%): -3.22%
+Skewness: 1.826
+Kurtosis: 11.398
+
+============================================================
+🧪 MONTE CARLO VALIDATION (10,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 100.99%
+Permutation Mean: 30.57%
+Permutation Std: 20.97%
+P-Value: 0.0019
+Statistical Significance: ✅ SIGNIFICANT
+
+Interpretation: Strategy shows genuine predictive power
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ✅ ACHIEVED
+  → Actual: 114.2% (Target: 50%+)
+
+Win Rate Target (55%+): ✅ ACHIEVED
+  → Actual: 58.9% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ✅ ACHIEVED
+  → Actual: 3.98 (Target: 1.5+)
+
+Statistical Validation: ✅ ACHIEVED
+  → Monte Carlo P-Value: 0.0019
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 4/4 targets achieved
+Assessment: 🟢 EXCELLENT - Strategy meets professional standards
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

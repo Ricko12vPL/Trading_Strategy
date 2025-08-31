@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (14/62)
+====================================================================================================
+Symbol: CMCSA (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:56:31
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -1.87%
+Annualized Return (CAGR): -2.04%
+Volatility: 4.32%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -0.936
+Sortino Ratio: -1.013
+Calmar Ratio: -0.524
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 3.89%
+Recovery Factor: -0.48
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 48.9%
+Average Win: 0.20%
+Average Loss: -0.22%
+Profit Factor: 0.91
+Expectancy: -0.0001
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -0.38%
+Conditional VaR (95%): -0.65%
+Skewness: -1.195
+Kurtosis: 15.786
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -1.87%
+Permutation Mean: -10.23%
+Permutation Std: 10.77%
+P-Value: 0.2058
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -2.0% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 48.9% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -0.94 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.2058
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (11/62)
+====================================================================================================
+Symbol: PYPL (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:55:42
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -11.95%
+Annualized Return (CAGR): -12.97%
+Volatility: 12.89%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -1.161
+Sortino Ratio: -1.090
+Calmar Ratio: -0.796
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 16.28%
+Recovery Factor: -0.73
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 43.9%
+Average Win: 0.64%
+Average Loss: -0.64%
+Profit Factor: 0.79
+Expectancy: -0.0008
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -1.09%
+Conditional VaR (95%): -2.27%
+Skewness: -1.804
+Kurtosis: 15.287
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -11.95%
+Permutation Mean: -10.76%
+Permutation Std: 16.25%
+P-Value: 0.4795
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -13.0% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 43.9% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -1.16 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.4795
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

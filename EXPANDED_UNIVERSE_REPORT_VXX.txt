@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (42/62)
+====================================================================================================
+Symbol: VXX (Volatility Instrument)
+Generated: 2025-08-22 23:10:36
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -2.89%
+Annualized Return (CAGR): -3.15%
+Volatility: 15.47%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -0.333
+Sortino Ratio: -0.222
+Calmar Ratio: -0.324
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 9.73%
+Recovery Factor: -0.30
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 25.5%
+Average Win: 2.02%
+Average Loss: -0.74%
+Profit Factor: 0.93
+Expectancy: -0.0004
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -0.71%
+Conditional VaR (95%): -2.02%
+Skewness: 0.119
+Kurtosis: 39.901
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -2.89%
+Permutation Mean: -15.85%
+Permutation Std: 27.55%
+P-Value: 0.3117
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -3.1% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 25.5% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -0.33 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.3117
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: Volatility Instrument
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

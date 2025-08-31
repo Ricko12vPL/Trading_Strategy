@@ -1,0 +1,31 @@
+
+PROFESSIONAL BACKTEST REPORT - IWM
+======================================
+Generated: 2025-08-22 16:19:50
+Data: 2 years historical data (503 records)
+IBKR Connection: ✅ Validated (Client ID 4, Live data)
+Monte Carlo: 10,000 permutations validated
+
+PERFORMANCE METRICS:
+- Total Return: -3.13%
+- Annual Return: -1.58% 
+- Sharpe Ratio: -0.251
+- Max Drawdown: 16.80%
+- Win Rate: 44.3%
+- Profit Factor: 0.99
+
+MONTE CARLO RESULTS:
+- P-Value: 0.6332
+- Statistical Significance: NO
+
+TARGET ACHIEVEMENT:
+- 500% Annual Return: NOT MET
+- 65% Win Rate: NOT MET 
+- 3.0+ Sharpe Ratio: NOT MET
+
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+
+This report is based on the complete professional implementation
+following all backtest_guide.md requirements with real IBKR data
+validation and comprehensive Monte Carlo permutation testing.

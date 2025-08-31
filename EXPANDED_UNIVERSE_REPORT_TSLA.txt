@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (6/62)
+====================================================================================================
+Symbol: TSLA (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:45:49
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: 103.12%
+Annualized Return (CAGR): 116.64%
+Volatility: 63.94%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: 1.793
+Sortino Ratio: 2.675
+Calmar Ratio: 2.930
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 39.81%
+Recovery Factor: 2.59
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 48.7%
+Average Win: 4.11%
+Average Loss: -2.79%
+Profit Factor: 1.40
+Expectancy: 0.0057
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -5.53%
+Conditional VaR (95%): -7.59%
+Skewness: 1.394
+Kurtosis: 8.399
+
+============================================================
+🧪 MONTE CARLO VALIDATION (10,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: 103.12%
+Permutation Mean: 11.86%
+Permutation Std: 39.33%
+P-Value: 0.0294
+Statistical Significance: ✅ SIGNIFICANT
+
+Interpretation: Strategy shows genuine predictive power
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ✅ ACHIEVED
+  → Actual: 116.6% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 48.7% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ✅ ACHIEVED
+  → Actual: 1.79 (Target: 1.5+)
+
+Statistical Validation: ✅ ACHIEVED
+  → Monte Carlo P-Value: 0.0294
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 3/4 targets achieved
+Assessment: 🟢 EXCELLENT - Strategy meets professional standards
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.

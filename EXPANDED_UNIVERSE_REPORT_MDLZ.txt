@@ -1,0 +1,90 @@
+
+====================================================================================================
+📈 ULTIMATE AGGRESSIVE OPTIONS STRATEGY - EXPANDED UNIVERSE RESULTS (25/62)
+====================================================================================================
+Symbol: MDLZ (NASDAQ Top 30 Stock)
+Generated: 2025-08-22 22:59:58
+Data Source: Professional Market Data (IBKR Standards)
+Framework: Complete backtest_guide.md implementation for expanded universe
+
+============================================================
+📊 PERFORMANCE SUMMARY
+============================================================
+
+🎯 RETURN METRICS:
+Total Return: -4.26%
+Annualized Return (CAGR): -4.64%
+Volatility: 6.49%
+
+🛡️ RISK-ADJUSTED METRICS:
+Sharpe Ratio: -1.024
+Sortino Ratio: -1.231
+Calmar Ratio: -0.705
+
+📉 DRAWDOWN ANALYSIS:
+Maximum Drawdown: 6.59%
+Recovery Factor: -0.65
+
+============================================================
+📈 TRADING STATISTICS
+============================================================
+
+Win Rate: 48.0%
+Average Win: 0.31%
+Average Loss: -0.33%
+Profit Factor: 0.88
+Expectancy: -0.0002
+
+============================================================
+🎲 RISK METRICS (ADVANCED)
+============================================================
+
+Value at Risk (95%): -0.67%
+Conditional VaR (95%): -1.01%
+Skewness: -0.747
+Kurtosis: 5.195
+
+============================================================
+🧪 MONTE CARLO VALIDATION (1,000 PERMUTATIONS)
+============================================================
+
+Real Strategy Return: -4.26%
+Permutation Mean: -10.48%
+Permutation Std: 9.42%
+P-Value: 0.2557
+Statistical Significance: ❌ NOT SIGNIFICANT
+
+Interpretation: Strategy may be curve-fitted or lucky
+
+============================================================
+🎯 TARGET ASSESSMENT (Expanded Universe Thresholds)
+============================================================
+
+Annual Return Target (50%+): ❌ NOT MET
+  → Actual: -4.6% (Target: 50%+)
+
+Win Rate Target (55%+): ❌ NOT MET
+  → Actual: 48.0% (Target: 55%+)
+
+Sharpe Ratio Target (1.5+): ❌ NOT MET
+  → Actual: -1.02 (Target: 1.5+)
+
+Statistical Validation: ❌ NOT MET
+  → Monte Carlo P-Value: 0.2557
+
+============================================================
+📋 OVERALL ASSESSMENT
+============================================================
+Overall Grade: 0/4 targets achieved
+Assessment: 🔴 NEEDS IMPROVEMENT - Strategy requires enhancement
+Instrument Category: NASDAQ Top 30 Stock
+
+Risk Warning: This analysis covers an aggressive options strategy across diverse 
+instruments. Risk profiles vary significantly between volatility instruments, 
+individual stocks, and ETFs. Position sizing and risk management must be 
+adjusted accordingly.
+
+Implementation Note: Results based on professional backtesting framework 
+following institutional practices from top market makers and proprietary 
+trading firms. Expanded universe analysis provides diversification insights 
+across multiple market segments and volatility regimes.
